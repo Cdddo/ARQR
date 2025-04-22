@@ -1,2 +1,2 @@
 # ARQR
-Stores QR files for Pats project
+Stores model and QR files for Pats project
